@@ -1,5 +1,8 @@
 _repo: Ruth-Fielding-in-Alaska-b-The-girl-miners-of-snow-mountain_71176
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71176-h/images/cover.jpg
 creator:
   author:
     agent_name: Emerson, Alice B.
@@ -7,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1619
     wikipedia: https://en.wikipedia.org/wiki/Alice_B._Emerson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71176#Ruth-Fielding-in-Alaska-b-The-girl-miners-of-snow-mountain
 gutenberg_issued: '2023-07-12'
 identifiers:
   gutenberg: '71176'
